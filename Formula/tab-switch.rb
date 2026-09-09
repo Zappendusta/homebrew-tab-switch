@@ -1,8 +1,8 @@
 class TabSwitch < Formula
   desc "Keyboard window switcher for macOS (Cmd+Tab / Option+Tab across windows)"
   homepage "https://github.com/Zappendusta/tab-switch"
-  url "https://github.com/Zappendusta/tab-switch/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "d84bba504011c68ba1b9b9fd3efd643149f31f8141d0925afcd55710a1747151"
+  url "https://github.com/Zappendusta/tab-switch/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "47cdcbea24d4bc56431fde8d8c83927a5408063f4f1531e42774af2b7c546878"
   license "MIT"
   head "https://github.com/Zappendusta/tab-switch.git", branch: "master"
 
